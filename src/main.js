@@ -4,10 +4,14 @@ import router from './router'
 import store from './store'
 
 //加载全局样式
-import './style/index.less'
 
 import Vant from 'vant';
 import 'vant/lib/index.css';
+import './style/index.less'
+
+
+//移动端适配
+import 'amfe-flexible'
 
 Vue.use(Vant);
 
