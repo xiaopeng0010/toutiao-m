@@ -8,6 +8,7 @@ import store from './store'
 import Vant from 'vant';
 import 'vant/lib/index.css';
 import './style/index.less'
+import './utils/dayjs'
 
 
 //移动端适配

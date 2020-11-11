@@ -9,7 +9,7 @@
           <span class="name">{{userInfo.intro}}</span>
         </div>
         <div class="rigth">
-          <van-button size="mini" round>编辑资料</van-button>
+          <van-button size="mini" round to='./my/index'>编辑资料</van-button>
         </div>
       </div>
       <!-- 下部区域 -->
